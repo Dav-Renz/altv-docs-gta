@@ -1,169 +1,171 @@
-﻿# Vehicle Colors
+# Vehicle Colors
 
-| ID | HEX | RGB | Description |
-| -- | --- | --- | ----------- |
-| 0 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0d1116.jpg) `#0d1116` | 13, 17, 22 | Metallic Black |
-| 1 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1c1d21.jpg) `#1c1d21` | 28, 29, 33 | Metallic Graphite Black |
-| 2 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/32383d.jpg) `#32383d` | 50, 56, 61 | Metallic Black Steal |
-| 3 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/454b4f.jpg) `#454b4f` | 69, 75, 79 | Metallic Dark Silver |
-| 4 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/999da0.jpg) `#999da0` | 153, 157, 160 | Metallic Silver |
-| 5 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c2c4c6.jpg) `#c2c4c6` | 194, 196, 198 | Metallic Blue Silver |
-| 6 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/979a97.jpg) `#979a97` | 151, 154, 151 | Metallic Steel Gray |
-| 7 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/637380.jpg) `#637380` | 99, 115, 128 | Metallic Shadow Silver |
-| 8 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/63625c.jpg) `#63625c` | 99, 98, 92 | Metallic Stone Silver |
-| 9 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/3c3f47.jpg) `#3c3f47` | 60, 63, 71 | Metallic Midnight Silver |
-| 10 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/444e54.jpg) `#444e54` | 68, 78, 84 | Metallic Gun Metal |
-| 11 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1d2129.jpg) `#1d2129` | 29, 33, 41 | Metallic Anthracite Grey |
-| 12 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/13181f.jpg) `#13181f` | 19, 24, 31 | Matte Black |
-| 13 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/26282a.jpg) `#26282a` | 38, 40, 42 | Matte Gray |
-| 14 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/515554.jpg) `#515554` | 81, 85, 84 | Matte Light Grey |
-| 15 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/151921.jpg) `#151921` | 21, 25, 33 | Util Black |
-| 16 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1e2429.jpg) `#1e2429` | 30, 36, 41 | Util Black Poly |
-| 17 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/333a3c.jpg) `#333a3c` | 51, 58, 60 | Util Dark Silver |
-| 18 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/8c9095.jpg) `#8c9095` | 140, 144, 149 | Util Silver |
-| 19 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/39434d.jpg) `#39434d` | 57, 67, 77 | Util Gun Metal |
-| 20 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/506272.jpg) `#506272` | 80, 98, 114 | Util Shadow Silver |
-| 21 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1e232f.jpg) `#1e232f` | 30, 35, 47 | Worn Black |
-| 22 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/363a3f.jpg) `#363a3f` | 54, 58, 63 | Worn Graphite |
-| 23 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a0a199.jpg) `#a0a199` | 160, 161, 153 | Worn Silver Grey |
-| 24 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/d3d3d3.jpg) `#d3d3d3` | 211, 211, 211 | Worn Silver |
-| 25 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b7bfca.jpg) `#b7bfca` | 183, 191, 202 | Worn Blue Silver |
-| 26 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/778794.jpg) `#778794` | 119, 135, 148 | Worn Shadow Silver |
-| 27 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c00e1a.jpg) `#c00e1a` | 192, 14, 26 | Metallic Red |
-| 28 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/da1918.jpg) `#da1918` | 218, 25, 24 | Metallic Torino Red |
-| 29 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b6111b.jpg) `#b6111b` | 182, 17, 27 | Metallic Formula Red |
-| 30 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a51e23.jpg) `#a51e23` | 165, 30, 35 | Metallic Blaze Red |
-| 31 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7b1a22.jpg) `#7b1a22` | 123, 26, 34 | Metallic Graceful Red |
-| 32 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/8e1b1f.jpg) `#8e1b1f` | 142, 27, 31 | Metallic Garnet Red |
-| 33 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6f1818.jpg) `#6f1818` | 111, 24, 24 | Metallic Desert Red |
-| 34 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/49111d.jpg) `#49111d` | 73, 17, 29 | Metallic Cabernet Red |
-| 35 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b60f25.jpg) `#b60f25` | 182, 15, 37 | Metallic Candy Red |
-| 36 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/d44a17.jpg) `#d44a17` | 212, 74, 23 | Metallic Sunrise Orange |
-| 37 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c2944f.jpg) `#c2944f` | 194, 148, 79 | Metallic Classic Gold |
-| 38 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f78616.jpg) `#f78616` | 247, 134, 22 | Metallic Orange |
-| 39 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/cf1f21.jpg) `#cf1f21` | 207, 31, 33 | Matte Red |
-| 40 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/732021.jpg) `#732021` | 115, 32, 33 | Matte Dark Red |
-| 41 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f27d20.jpg) `#f27d20` | 242, 125, 32 | Matte Orange |
-| 42 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ffc91f.jpg) `#ffc91f` | 255, 201, 31 | Matte Yellow |
-| 43 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9c1016.jpg) `#9c1016` | 156, 16, 22 | Util Red |
-| 44 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/de0f18.jpg) `#de0f18` | 222, 15, 24 | Util Bright Red |
-| 45 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/8f1e17.jpg) `#8f1e17` | 143, 30, 23 | Util Garnet Red |
-| 46 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a94744.jpg) `#a94744` | 169, 71, 68 | Worn Red |
-| 47 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b16c51.jpg) `#b16c51` | 177, 108, 81 | Worn Golden Red |
-| 48 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/371c25.jpg) `#371c25` | 55, 28, 37 | Worn Dark Red |
-| 49 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/132428.jpg) `#132428` | 19, 36, 40 | Metallic Dark Green |
-| 50 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/122e2b.jpg) `#122e2b` | 18, 46, 43 | Metallic Racing Green |
-| 51 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/12383c.jpg) `#12383c` | 18, 56, 60 | Metallic Sea Green |
-| 52 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/31423f.jpg) `#31423f` | 49, 66, 63 | Metallic Olive Green |
-| 53 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/155c2d.jpg) `#155c2d` | 21, 92, 45 | Metallic Green |
-| 54 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1b6770.jpg) `#1b6770` | 27, 103, 112 | Metallic Gasoline Blue Green |
-| 55 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/66b81f.jpg) `#66b81f` | 102, 184, 31 | Matte Lime Green |
-| 56 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/22383e.jpg) `#22383e` | 34, 56, 62 | Util Dark Green |
-| 57 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1d5a3f.jpg) `#1d5a3f` | 29, 90, 63 | Util Green |
-| 58 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2d423f.jpg) `#2d423f` | 45, 66, 63 | Worn Dark Green |
-| 59 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/45594b.jpg) `#45594b` | 69, 89, 75 | Worn Green |
-| 60 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/65867f.jpg) `#65867f` | 101, 134, 127 | Worn Sea Wash |
-| 61 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/222e46.jpg) `#222e46` | 34, 46, 70 | Metallic Midnight Blue |
-| 62 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/233155.jpg) `#233155` | 35, 49, 85 | Metallic Dark Blue |
-| 63 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/304c7e.jpg) `#304c7e` | 48, 76, 126 | Metallic Saxony Blue |
-| 64 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/47578f.jpg) `#47578f` | 71, 87, 143 | Metallic Blue |
-| 65 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/637ba7.jpg) `#637ba7` | 99, 123, 167 | Metallic Mariner Blue |
-| 66 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/394762.jpg) `#394762` | 57, 71, 98 | Metallic Harbor Blue |
-| 67 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/d6e7f1.jpg) `#d6e7f1` | 214, 231, 241 | Metallic Diamond Blue |
-| 68 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/76afbe.jpg) `#76afbe` | 118, 175, 190 | Metallic Surf Blue |
-| 69 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/345e72.jpg) `#345e72` | 52, 94, 114 | Metallic Nautical Blue |
-| 70 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0b9cf1.jpg) `#0b9cf1` | 11, 156, 241 | Metallic Bright Blue |
-| 71 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2f2d52.jpg) `#2f2d52` | 47, 45, 82 | Metallic Purple Blue |
-| 72 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/282c4d.jpg) `#282c4d` | 40, 44, 77 | Metallic Spinnaker Blue |
-| 73 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2354a1.jpg) `#2354a1` | 35, 84, 161 | Metallic Ultra Blue |
-| 74 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6ea3c6.jpg) `#6ea3c6` | 110, 163, 198 | Metallic Bright Blue |
-| 75 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/112552.jpg) `#112552` | 17, 37, 82 | Util Dark Blue |
-| 76 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1b203e.jpg) `#1b203e` | 27, 32, 62 | Util Midnight Blue |
-| 77 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/275190.jpg) `#275190` | 39, 81, 144 | Util Blue |
-| 78 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/608592.jpg) `#608592` | 96, 133, 146 | Util Sea Foam Blue |
-| 79 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2446a8.jpg) `#2446a8` | 36, 70, 168 | Util Lightning Blue |
-| 80 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4271e1.jpg) `#4271e1` | 66, 113, 225 | Util Maui Blue Poly |
-| 81 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/3b39e0.jpg) `#3b39e0` | 59, 57, 224 | Util Bright Blue |
-| 82 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1f2852.jpg) `#1f2852` | 31, 40, 82 | Matte Dark Blue |
-| 83 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/253aa7.jpg) `#253aa7` | 37, 58, 167 | Matte Blue |
-| 84 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1c3551.jpg) `#1c3551` | 28, 53, 81 | Matte Midnight Blue |
-| 85 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4c5f81.jpg) `#4c5f81` | 76, 95, 129 | Worn Dark Blue |
-| 86 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/58688e.jpg) `#58688e` | 88, 104, 142 | Worn Blue |
-| 87 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/74b5d8.jpg) `#74b5d8` | 116, 181, 216 | Worn Light Blue |
-| 88 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ffcf20.jpg) `#ffcf20` | 255, 207, 32 | Metallic Taxi Yellow |
-| 89 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fbe212.jpg) `#fbe212` | 251, 226, 18 | Metallic Race Yellow |
-| 90 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/916532.jpg) `#916532` | 145, 101, 50 | Metallic Bronze |
-| 91 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/e0e13d.jpg) `#e0e13d` | 224, 225, 61 | Metallic Yellow Bird |
-| 92 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/98d223.jpg) `#98d223` | 152, 210, 35 | Metallic Lime |
-| 93 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9b8c78.jpg) `#9b8c78` | 155, 140, 120 | Metallic Champagne |
-| 94 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/503218.jpg) `#503218` | 80, 50, 24 | Metallic Pueblo Beige |
-| 95 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/473f2b.jpg) `#473f2b` | 71, 63, 43 | Metallic Dark Ivory |
-| 96 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/221b19.jpg) `#221b19` | 34, 27, 25 | Metallic Choco Brown |
-| 97 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/653f23.jpg) `#653f23` | 101, 63, 35 | Metallic Golden Brown |
-| 98 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/775c3e.jpg) `#775c3e` | 119, 92, 62 | Metallic Light Brown |
-| 99 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ac9975.jpg) `#ac9975` | 172, 153, 117 | Metallic Straw Beige |
-| 100 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6c6b4b.jpg) `#6c6b4b` | 108, 107, 75 | Metallic Moss Brown |
-| 101 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/402e2b.jpg) `#402e2b` | 64, 46, 43 | Metallic Biston Brown |
-| 102 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/a4965f.jpg) `#a4965f` | 164, 150, 95 | Metallic Beechwood |
-| 103 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/46231a.jpg) `#46231a` | 70, 35, 26 | Metallic Dark Beechwood |
-| 104 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/752b19.jpg) `#752b19` | 117, 43, 25 | Metallic Choco Orange |
-| 105 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/bfae7b.jpg) `#bfae7b` | 191, 174, 123 | Metallic Beach Sand |
-| 106 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/dfd5b2.jpg) `#dfd5b2` | 223, 213, 178 | Metallic Sun Bleeched Sand |
-| 107 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f7edd5.jpg) `#f7edd5` | 247, 237, 213 | Metallic Cream |
-| 108 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/3a2a1b.jpg) `#3a2a1b` | 58, 42, 27 | Util Brown |
-| 109 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/785f33.jpg) `#785f33` | 120, 95, 51 | Util Medium Brown |
-| 110 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b5a079.jpg) `#b5a079` | 181, 160, 121 | Util Light Brown |
-| 111 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fffff6.jpg) `#fffff6` | 255, 255, 246 | Metallic White |
-| 112 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/eaeaea.jpg) `#eaeaea` | 234, 234, 234 | Metallic Frost White |
-| 113 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b0ab94.jpg) `#b0ab94` | 176, 171, 148 | Worn Honey Beige |
-| 114 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/453831.jpg) `#453831` | 69, 56, 49 | Worn Brown |
-| 115 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2a282b.jpg) `#2a282b` | 42, 40, 43 | Worn Dark Brown |
-| 116 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/726c57.jpg) `#726c57` | 114, 108, 87 | Worn Straw Beige |
-| 117 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6a747c.jpg) `#6a747c` | 106, 116, 124 | Brushed Steel |
-| 118 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/354158.jpg) `#354158` | 53, 65, 88 | Brushed Black Steel |
-| 119 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9ba0a8.jpg) `#9ba0a8` | 155, 160, 168 | Brushed Aluminium |
-| 120 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/5870a1.jpg) `#5870a1` | 88, 112, 161 | Chrome |
-| 121 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/eae6de.jpg) `#eae6de` | 234, 230, 222 | Worn Off White |
-| 122 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/dfddd0.jpg) `#dfddd0` | 223, 221, 208 | Util Off White |
-| 123 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f2ad2e.jpg) `#f2ad2e` | 242, 173, 46 | Worn Orange |
-| 124 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f9a458.jpg) `#f9a458` | 249, 164, 88 | Worn Light Orange |
-| 125 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/83c566.jpg) `#83c566` | 131, 197, 102 | Metallic Securicor Green |
-| 126 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f1cc40.jpg) `#f1cc40` | 241, 204, 64 | Worn Taxi Yellow |
-| 127 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4cc3da.jpg) `#4cc3da` | 76, 195, 218 | Police Car Blue |
-| 128 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/4e6443.jpg) `#4e6443` | 78, 100, 67 | Matte Green |
-| 129 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/bcac8f.jpg) `#bcac8f` | 188, 172, 143 | Matte Brown |
-| 130 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f8b658.jpg) `#f8b658` | 248, 182, 88 | Worn Orange |
-| 131 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fcf9f1.jpg) `#fcf9f1` | 252, 249, 241 | Matte White |
-| 132 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fffffb.jpg) `#fffffb` | 255, 255, 251 | Worn White |
-| 133 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/81844c.jpg) `#81844c` | 129, 132, 76 | Worn Olive Army Green |
-| 134 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/ffffff.jpg) `#ffffff` | 255, 255, 255 | Pure White |
-| 135 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f21f99.jpg) `#f21f99` | 242, 31, 153 | Hot Pink |
-| 136 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/fdd6cd.jpg) `#fdd6cd` | 253, 214, 205 | Salmon Pink |
-| 137 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/df5891.jpg) `#df5891` | 223, 88, 145 | Metallic Vermillion Pink |
-| 138 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/f6ae20.jpg) `#f6ae20` | 246, 174, 32 | Orange |
-| 139 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/b0ee6e.jpg) `#b0ee6e` | 176, 238, 110 | Green |
-| 140 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/08e9fa.jpg) `#08e9fa` | 8, 233, 250 | Blue |
-| 141 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0a0c17.jpg) `#0a0c17` | 10, 12, 23 | Mettalic Black Blue |
-| 142 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0c0d18.jpg) `#0c0d18` | 12, 13, 24 | Metallic Black Purple |
-| 143 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0e0d14.jpg) `#0e0d14` | 14, 13, 20 | Metallic Black Red |
-| 144 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/9f9e8a.jpg) `#9f9e8a` | 159, 158, 138 | Hunter Green |
-| 145 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/621276.jpg) `#621276` | 98, 18, 118 | Metallic Purple |
-| 146 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/0b1421.jpg) `#0b1421` | 11, 20, 33 | Metaillic V Dark Blue |
-| 147 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/11141a.jpg) `#11141a` | 17, 20, 26 | Modshop Black |
-| 148 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/6b1f7b.jpg) `#6b1f7b` | 107, 31, 123 | Matte Purple |
-| 149 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/1e1d22.jpg) `#1e1d22` | 30, 29, 34 | Matte Dark Purple |
-| 150 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/bc1917.jpg) `#bc1917` | 188, 25, 23 | Metallic Lava Red |
-| 151 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/2d362a.jpg) `#2d362a` | 45, 54, 42 | Matte Forest Green |
-| 152 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/696748.jpg) `#696748` | 105, 103, 72 | Matte Olive Drab |
-| 153 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7a6c55.jpg) `#7a6c55` | 122, 108, 85 | Matte Desert Brown |
-| 154 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/c3b492.jpg) `#c3b492` | 195, 180, 146 | Matte Desert Tan |
-| 155 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/5a6352.jpg) `#5a6352` | 90, 99, 82 | Matte Foilage Green |
-| 156 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/81827f.jpg) `#81827f` | 129, 130, 127 | Default Alloy |
-| 157 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/afd6e4.jpg) `#afd6e4` | 175, 214, 228 | Epsilon Blue |
-| 158 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7a6440.jpg) `#7a6440` | 122, 100, 64 | Pure Gold |
-| 159 | ![](~/altv-docs-assets/altv-docs-gta/images/vehicle/colors/7f6a48.jpg) `#7f6a48` | 127, 106, 72 | Brushed Gold |
+## Overview
 
-# Vehicle Colors Array
+| ID  | Name                         | Preview                                               | HEX     | RGB           |
+| --- | ---------------------------- | ----------------------------------------------------- | ------- | ------------- |
+| 0   | Metallic Black               | <div class="c-box" style="background: #0d1116"></div> | #0d1116 | 13, 17, 22    |
+| 1   | Metallic Graphite Black      | <div class="c-box" style="background: #1c1d21"></div> | #1c1d21 | 28, 29, 33    |
+| 2   | Metallic Black Steal         | <div class="c-box" style="background: #32383d"></div> | #32383d | 50, 56, 61    |
+| 3   | Metallic Dark Silver         | <div class="c-box" style="background: #454b4f"></div> | #454b4f | 69, 75, 79    |
+| 4   | Metallic Silver              | <div class="c-box" style="background: #999da0"></div> | #999da0 | 153, 157, 160 |
+| 5   | Metallic Blue Silver         | <div class="c-box" style="background: #c2c4c6"></div> | #c2c4c6 | 194, 196, 198 |
+| 6   | Metallic Steel Gray          | <div class="c-box" style="background: #979a97"></div> | #979a97 | 151, 154, 151 |
+| 7   | Metallic Shadow Silver       | <div class="c-box" style="background: #637380"></div> | #637380 | 99, 115, 128  |
+| 8   | Metallic Stone Silver        | <div class="c-box" style="background: #63625c"></div> | #63625c | 99, 98, 92    |
+| 9   | Metallic Midnight Silver     | <div class="c-box" style="background: #3c3f47"></div> | #3c3f47 | 60, 63, 71    |
+| 10  | Metallic Gun Metal           | <div class="c-box" style="background: #444e54"></div> | #444e54 | 68, 78, 84    |
+| 11  | Metallic Anthracite Grey     | <div class="c-box" style="background: #1d2129"></div> | #1d2129 | 29, 33, 41    |
+| 12  | Matte Black                  | <div class="c-box" style="background: #13181f"></div> | #13181f | 19, 24, 31    |
+| 13  | Matte Gray                   | <div class="c-box" style="background: #26282a"></div> | #26282a | 38, 40, 42    |
+| 14  | Matte Light Grey             | <div class="c-box" style="background: #515554"></div> | #515554 | 81, 85, 84    |
+| 15  | Util Black                   | <div class="c-box" style="background: #151921"></div> | #151921 | 21, 25, 33    |
+| 16  | Util Black Poly              | <div class="c-box" style="background: #1e2429"></div> | #1e2429 | 30, 36, 41    |
+| 17  | Util Dark Silver             | <div class="c-box" style="background: #333a3c"></div> | #333a3c | 51, 58, 60    |
+| 18  | Util Silver                  | <div class="c-box" style="background: #8c9095"></div> | #8c9095 | 140, 144, 149 |
+| 19  | Util Gun Metal               | <div class="c-box" style="background: #39434d"></div> | #39434d | 57, 67, 77    |
+| 20  | Util Shadow Silver           | <div class="c-box" style="background: #506272"></div> | #506272 | 80, 98, 114   |
+| 21  | Worn Black                   | <div class="c-box" style="background: #1e232f"></div> | #1e232f | 30, 35, 47    |
+| 22  | Worn Graphite                | <div class="c-box" style="background: #363a3f"></div> | #363a3f | 54, 58, 63    |
+| 23  | Worn Silver Grey             | <div class="c-box" style="background: #a0a199"></div> | #a0a199 | 160, 161, 153 |
+| 24  | Worn Silver                  | <div class="c-box" style="background: #d3d3d3"></div> | #d3d3d3 | 211, 211, 211 |
+| 25  | Worn Blue Silver             | <div class="c-box" style="background: #b7bfca"></div> | #b7bfca | 183, 191, 202 |
+| 26  | Worn Shadow Silver           | <div class="c-box" style="background: #778794"></div> | #778794 | 119, 135, 148 |
+| 27  | Metallic Red                 | <div class="c-box" style="background: #c00e1a"></div> | #c00e1a | 192, 14, 26   |
+| 28  | Metallic Torino Red          | <div class="c-box" style="background: #da1918"></div> | #da1918 | 218, 25, 24   |
+| 29  | Metallic Formula Red         | <div class="c-box" style="background: #b6111b"></div> | #b6111b | 182, 17, 27   |
+| 30  | Metallic Blaze Red           | <div class="c-box" style="background: #a51e23"></div> | #a51e23 | 165, 30, 35   |
+| 31  | Metallic Graceful Red        | <div class="c-box" style="background: #7b1a22"></div> | #7b1a22 | 123, 26, 34   |
+| 32  | Metallic Garnet Red          | <div class="c-box" style="background: #8e1b1f"></div> | #8e1b1f | 142, 27, 31   |
+| 33  | Metallic Desert Red          | <div class="c-box" style="background: #6f1818"></div> | #6f1818 | 111, 24, 24   |
+| 34  | Metallic Cabernet Red        | <div class="c-box" style="background: #49111d"></div> | #49111d | 73, 17, 29    |
+| 35  | Metallic Candy Red           | <div class="c-box" style="background: #b60f25"></div> | #b60f25 | 182, 15, 37   |
+| 36  | Metallic Sunrise Orange      | <div class="c-box" style="background: #d44a17"></div> | #d44a17 | 212, 74, 23   |
+| 37  | Metallic Classic Gold        | <div class="c-box" style="background: #c2944f"></div> | #c2944f | 194, 148, 79  |
+| 38  | Metallic Orange              | <div class="c-box" style="background: #f78616"></div> | #f78616 | 247, 134, 22  |
+| 39  | Matte Red                    | <div class="c-box" style="background: #cf1f21"></div> | #cf1f21 | 207, 31, 33   |
+| 40  | Matte Dark Red               | <div class="c-box" style="background: #732021"></div> | #732021 | 115, 32, 33   |
+| 41  | Matte Orange                 | <div class="c-box" style="background: #f27d20"></div> | #f27d20 | 242, 125, 32  |
+| 42  | Matte Yellow                 | <div class="c-box" style="background: #ffc91f"></div> | #ffc91f | 255, 201, 31  |
+| 43  | Util Red                     | <div class="c-box" style="background: #9c1016"></div> | #9c1016 | 156, 16, 22   |
+| 44  | Util Bright Red              | <div class="c-box" style="background: #de0f18"></div> | #de0f18 | 222, 15, 24   |
+| 45  | Util Garnet Red              | <div class="c-box" style="background: #8f1e17"></div> | #8f1e17 | 143, 30, 23   |
+| 46  | Worn Red                     | <div class="c-box" style="background: #a94744"></div> | #a94744 | 169, 71, 68   |
+| 47  | Worn Golden Red              | <div class="c-box" style="background: #b16c51"></div> | #b16c51 | 177, 108, 81  |
+| 48  | Worn Dark Red                | <div class="c-box" style="background: #371c25"></div> | #371c25 | 55, 28, 37    |
+| 49  | Metallic Dark Green          | <div class="c-box" style="background: #132428"></div> | #132428 | 19, 36, 40    |
+| 50  | Metallic Racing Green        | <div class="c-box" style="background: #122e2b"></div> | #122e2b | 18, 46, 43    |
+| 51  | Metallic Sea Green           | <div class="c-box" style="background: #12383c"></div> | #12383c | 18, 56, 60    |
+| 52  | Metallic Olive Green         | <div class="c-box" style="background: #31423f"></div> | #31423f | 49, 66, 63    |
+| 53  | Metallic Green               | <div class="c-box" style="background: #155c2d"></div> | #155c2d | 21, 92, 45    |
+| 54  | Metallic Gasoline Blue Green | <div class="c-box" style="background: #1b6770"></div> | #1b6770 | 27, 103, 112  |
+| 55  | Matte Lime Green             | <div class="c-box" style="background: #66b81f"></div> | #66b81f | 102, 184, 31  |
+| 56  | Util Dark Green              | <div class="c-box" style="background: #22383e"></div> | #22383e | 34, 56, 62    |
+| 57  | Util Green                   | <div class="c-box" style="background: #1d5a3f"></div> | #1d5a3f | 29, 90, 63    |
+| 58  | Worn Dark Green              | <div class="c-box" style="background: #2d423f"></div> | #2d423f | 45, 66, 63    |
+| 59  | Worn Green                   | <div class="c-box" style="background: #45594b"></div> | #45594b | 69, 89, 75    |
+| 60  | Worn Sea Wash                | <div class="c-box" style="background: #65867f"></div> | #65867f | 101, 134, 127 |
+| 61  | Metallic Midnight Blue       | <div class="c-box" style="background: #222e46"></div> | #222e46 | 34, 46, 70    |
+| 62  | Metallic Dark Blue           | <div class="c-box" style="background: #233155"></div> | #233155 | 35, 49, 85    |
+| 63  | Metallic Saxony Blue         | <div class="c-box" style="background: #304c7e"></div> | #304c7e | 48, 76, 126   |
+| 64  | Metallic Blue                | <div class="c-box" style="background: #47578f"></div> | #47578f | 71, 87, 143   |
+| 65  | Metallic Mariner Blue        | <div class="c-box" style="background: #637ba7"></div> | #637ba7 | 99, 123, 167  |
+| 66  | Metallic Harbor Blue         | <div class="c-box" style="background: #394762"></div> | #394762 | 57, 71, 98    |
+| 67  | Metallic Diamond Blue        | <div class="c-box" style="background: #d6e7f1"></div> | #d6e7f1 | 214, 231, 241 |
+| 68  | Metallic Surf Blue           | <div class="c-box" style="background: #76afbe"></div> | #76afbe | 118, 175, 190 |
+| 69  | Metallic Nautical Blue       | <div class="c-box" style="background: #345e72"></div> | #345e72 | 52, 94, 114   |
+| 70  | Metallic Bright Blue         | <div class="c-box" style="background: #0b9cf1"></div> | #0b9cf1 | 11, 156, 241  |
+| 71  | Metallic Purple Blue         | <div class="c-box" style="background: #2f2d52"></div> | #2f2d52 | 47, 45, 82    |
+| 72  | Metallic Spinnaker Blue      | <div class="c-box" style="background: #282c4d"></div> | #282c4d | 40, 44, 77    |
+| 73  | Metallic Ultra Blue          | <div class="c-box" style="background: #2354a1"></div> | #2354a1 | 35, 84, 161   |
+| 74  | Metallic Bright Blue         | <div class="c-box" style="background: #6ea3c6"></div> | #6ea3c6 | 110, 163, 198 |
+| 75  | Util Dark Blue               | <div class="c-box" style="background: #112552"></div> | #112552 | 17, 37, 82    |
+| 76  | Util Midnight Blue           | <div class="c-box" style="background: #1b203e"></div> | #1b203e | 27, 32, 62    |
+| 77  | Util Blue                    | <div class="c-box" style="background: #275190"></div> | #275190 | 39, 81, 144   |
+| 78  | Util Sea Foam Blue           | <div class="c-box" style="background: #608592"></div> | #608592 | 96, 133, 146  |
+| 79  | Util Lightning Blue          | <div class="c-box" style="background: #2446a8"></div> | #2446a8 | 36, 70, 168   |
+| 80  | Util Maui Blue Poly          | <div class="c-box" style="background: #4271e1"></div> | #4271e1 | 66, 113, 225  |
+| 81  | Util Bright Blue             | <div class="c-box" style="background: #3b39e0"></div> | #3b39e0 | 59, 57, 224   |
+| 82  | Matte Dark Blue              | <div class="c-box" style="background: #1f2852"></div> | #1f2852 | 31, 40, 82    |
+| 83  | Matte Blue                   | <div class="c-box" style="background: #253aa7"></div> | #253aa7 | 37, 58, 167   |
+| 84  | Matte Midnight Blue          | <div class="c-box" style="background: #1c3551"></div> | #1c3551 | 28, 53, 81    |
+| 85  | Worn Dark Blue               | <div class="c-box" style="background: #4c5f81"></div> | #4c5f81 | 76, 95, 129   |
+| 86  | Worn Blue                    | <div class="c-box" style="background: #58688e"></div> | #58688e | 88, 104, 142  |
+| 87  | Worn Light Blue              | <div class="c-box" style="background: #74b5d8"></div> | #74b5d8 | 116, 181, 216 |
+| 88  | Metallic Taxi Yellow         | <div class="c-box" style="background: #ffcf20"></div> | #ffcf20 | 255, 207, 32  |
+| 89  | Metallic Race Yellow         | <div class="c-box" style="background: #fbe212"></div> | #fbe212 | 251, 226, 18  |
+| 90  | Metallic Bronze              | <div class="c-box" style="background: #916532"></div> | #916532 | 145, 101, 50  |
+| 91  | Metallic Yellow Bird         | <div class="c-box" style="background: #e0e13d"></div> | #e0e13d | 224, 225, 61  |
+| 92  | Metallic Lime                | <div class="c-box" style="background: #98d223"></div> | #98d223 | 152, 210, 35  |
+| 93  | Metallic Champagne           | <div class="c-box" style="background: #9b8c78"></div> | #9b8c78 | 155, 140, 120 |
+| 94  | Metallic Pueblo Beige        | <div class="c-box" style="background: #503218"></div> | #503218 | 80, 50, 24    |
+| 95  | Metallic Dark Ivory          | <div class="c-box" style="background: #473f2b"></div> | #473f2b | 71, 63, 43    |
+| 96  | Metallic Choco Brown         | <div class="c-box" style="background: #221b19"></div> | #221b19 | 34, 27, 25    |
+| 97  | Metallic Golden Brown        | <div class="c-box" style="background: #653f23"></div> | #653f23 | 101, 63, 35   |
+| 98  | Metallic Light Brown         | <div class="c-box" style="background: #775c3e"></div> | #775c3e | 119, 92, 62   |
+| 99  | Metallic Straw Beige         | <div class="c-box" style="background: #ac9975"></div> | #ac9975 | 172, 153, 117 |
+| 100 | Metallic Moss Brown          | <div class="c-box" style="background: #6c6b4b"></div> | #6c6b4b | 108, 107, 75  |
+| 101 | Metallic Biston Brown        | <div class="c-box" style="background: #402e2b"></div> | #402e2b | 64, 46, 43    |
+| 102 | Metallic Beechwood           | <div class="c-box" style="background: #a4965f"></div> | #a4965f | 164, 150, 95  |
+| 103 | Metallic Dark Beechwood      | <div class="c-box" style="background: #46231a"></div> | #46231a | 70, 35, 26    |
+| 104 | Metallic Choco Orange        | <div class="c-box" style="background: #752b19"></div> | #752b19 | 117, 43, 25   |
+| 105 | Metallic Beach Sand          | <div class="c-box" style="background: #bfae7b"></div> | #bfae7b | 191, 174, 123 |
+| 106 | Metallic Sun Bleeched Sand   | <div class="c-box" style="background: #dfd5b2"></div> | #dfd5b2 | 223, 213, 178 |
+| 107 | Metallic Cream               | <div class="c-box" style="background: #f7edd5"></div> | #f7edd5 | 247, 237, 213 |
+| 108 | Util Brown                   | <div class="c-box" style="background: #3a2a1b"></div> | #3a2a1b | 58, 42, 27    |
+| 109 | Util Medium Brown            | <div class="c-box" style="background: #785f33"></div> | #785f33 | 120, 95, 51   |
+| 110 | Util Light Brown             | <div class="c-box" style="background: #b5a079"></div> | #b5a079 | 181, 160, 121 |
+| 111 | Metallic White               | <div class="c-box" style="background: #fffff6"></div> | #fffff6 | 255, 255, 246 |
+| 112 | Metallic Frost White         | <div class="c-box" style="background: #eaeaea"></div> | #eaeaea | 234, 234, 234 |
+| 113 | Worn Honey Beige             | <div class="c-box" style="background: #b0ab94"></div> | #b0ab94 | 176, 171, 148 |
+| 114 | Worn Brown                   | <div class="c-box" style="background: #453831"></div> | #453831 | 69, 56, 49    |
+| 115 | Worn Dark Brown              | <div class="c-box" style="background: #2a282b"></div> | #2a282b | 42, 40, 43    |
+| 116 | Worn Straw Beige             | <div class="c-box" style="background: #726c57"></div> | #726c57 | 114, 108, 87  |
+| 117 | Brushed Steel                | <div class="c-box" style="background: #6a747c"></div> | #6a747c | 106, 116, 124 |
+| 118 | Brushed Black Steel          | <div class="c-box" style="background: #354158"></div> | #354158 | 53, 65, 88    |
+| 119 | Brushed Aluminium            | <div class="c-box" style="background: #9ba0a8"></div> | #9ba0a8 | 155, 160, 168 |
+| 120 | Chrome                       | <div class="c-box" style="background: #5870a1"></div> | #5870a1 | 88, 112, 161  |
+| 121 | Worn Off White               | <div class="c-box" style="background: #eae6de"></div> | #eae6de | 234, 230, 222 |
+| 122 | Util Off White               | <div class="c-box" style="background: #dfddd0"></div> | #dfddd0 | 223, 221, 208 |
+| 123 | Worn Orange                  | <div class="c-box" style="background: #f2ad2e"></div> | #f2ad2e | 242, 173, 46  |
+| 124 | Worn Light Orange            | <div class="c-box" style="background: #f9a458"></div> | #f9a458 | 249, 164, 88  |
+| 125 | Metallic Securicor Green     | <div class="c-box" style="background: #83c566"></div> | #83c566 | 131, 197, 102 |
+| 126 | Worn Taxi Yellow             | <div class="c-box" style="background: #f1cc40"></div> | #f1cc40 | 241, 204, 64  |
+| 127 | Police Car Blue              | <div class="c-box" style="background: #4cc3da"></div> | #4cc3da | 76, 195, 218  |
+| 128 | Matte Green                  | <div class="c-box" style="background: #4e6443"></div> | #4e6443 | 78, 100, 67   |
+| 129 | Matte Brown                  | <div class="c-box" style="background: #bcac8f"></div> | #bcac8f | 188, 172, 143 |
+| 130 | Worn Orange                  | <div class="c-box" style="background: #f8b658"></div> | #f8b658 | 248, 182, 88  |
+| 131 | Matte White                  | <div class="c-box" style="background: #fcf9f1"></div> | #fcf9f1 | 252, 249, 241 |
+| 132 | Worn White                   | <div class="c-box" style="background: #fffffb"></div> | #fffffb | 255, 255, 251 |
+| 133 | Worn Olive Army Green        | <div class="c-box" style="background: #81844c"></div> | #81844c | 129, 132, 76  |
+| 134 | Pure White                   | <div class="c-box" style="background: #ffffff"></div> | #ffffff | 255, 255, 255 |
+| 135 | Hot Pink                     | <div class="c-box" style="background: #f21f99"></div> | #f21f99 | 242, 31, 153  |
+| 136 | Salmon Pink                  | <div class="c-box" style="background: #fdd6cd"></div> | #fdd6cd | 253, 214, 205 |
+| 137 | Metallic Vermillion Pink     | <div class="c-box" style="background: #df5891"></div> | #df5891 | 223, 88, 145  |
+| 138 | Orange                       | <div class="c-box" style="background: #f6ae20"></div> | #f6ae20 | 246, 174, 32  |
+| 139 | Green                        | <div class="c-box" style="background: #b0ee6e"></div> | #b0ee6e | 176, 238, 110 |
+| 140 | Blue                         | <div class="c-box" style="background: #08e9fa"></div> | #08e9fa | 8, 233, 250   |
+| 141 | Mettalic Black Blue          | <div class="c-box" style="background: #0a0c17"></div> | #0a0c17 | 10, 12, 23    |
+| 142 | Metallic Black Purple        | <div class="c-box" style="background: #0c0d18"></div> | #0c0d18 | 12, 13, 24    |
+| 143 | Metallic Black Red           | <div class="c-box" style="background: #0e0d14"></div> | #0e0d14 | 14, 13, 20    |
+| 144 | Hunter Green                 | <div class="c-box" style="background: #9f9e8a"></div> | #9f9e8a | 159, 158, 138 |
+| 145 | Metallic Purple              | <div class="c-box" style="background: #621276"></div> | #621276 | 98, 18, 118   |
+| 146 | Metaillic V Dark Blue        | <div class="c-box" style="background: #0b1421"></div> | #0b1421 | 11, 20, 33    |
+| 147 | Modshop Black                | <div class="c-box" style="background: #11141a"></div> | #11141a | 17, 20, 26    |
+| 148 | Matte Purple                 | <div class="c-box" style="background: #6b1f7b"></div> | #6b1f7b | 107, 31, 123  |
+| 149 | Matte Dark Purple            | <div class="c-box" style="background: #1e1d22"></div> | #1e1d22 | 30, 29, 34    |
+| 150 | Metallic Lava Red            | <div class="c-box" style="background: #bc1917"></div> | #bc1917 | 188, 25, 23   |
+| 151 | Matte Forest Green           | <div class="c-box" style="background: #2d362a"></div> | #2d362a | 45, 54, 42    |
+| 152 | Matte Olive Drab             | <div class="c-box" style="background: #696748"></div> | #696748 | 105, 103, 72  |
+| 153 | Matte Desert Brown           | <div class="c-box" style="background: #7a6c55"></div> | #7a6c55 | 122, 108, 85  |
+| 154 | Matte Desert Tan             | <div class="c-box" style="background: #c3b492"></div> | #c3b492 | 195, 180, 146 |
+| 155 | Matte Foilage Green          | <div class="c-box" style="background: #5a6352"></div> | #5a6352 | 90, 99, 82    |
+| 156 | Default Alloy                | <div class="c-box" style="background: #81827f"></div> | #81827f | 129, 130, 127 |
+| 157 | Epsilon Blue                 | <div class="c-box" style="background: #afd6e4"></div> | #afd6e4 | 175, 214, 228 |
+| 158 | Pure Gold                    | <div class="c-box" style="background: #7a6440"></div> | #7a6440 | 122, 100, 64  |
+| 159 | Brushed Gold                 | <div class="c-box" style="background: #7f6a48"></div> | #7f6a48 | 127, 106, 72  |
+
+## Vehicle Colors Array
 
 ```js
 const colors = [
@@ -1129,3 +1131,11 @@ const colors = [
     }
 ];
 ```
+
+<style>
+    .c-box {
+        width: 1rem;
+        height: 1rem;
+        border: 1px solid #dcddde;
+    }
+</style>
