@@ -328,7 +328,7 @@ game.removeIpl(iplName);
 | Old Spice Classical        | ex_sm_15_office_01b | -1392.532, -480.7649, 72.04207 |
 | Old Spice Vintage          | ex_sm_15_office_01c | -1392.611, -480.5562, 72.04214 |
 | Power Broker Ice           | ex_sm_15_office_03a | -1392.563, -480.549, 72.0421   |
-| Power Broker Convservative | ex_sm_15_office_03b | -1392.528, -480.475, 72.04206  |
+| Power Broker Conservative  | ex_sm_15_office_03b | -1392.528, -480.475, 72.04206  |
 | Power Broker Polished      | ex_sm_15_office_03c | -1392.416, -480.7485, 72.04207 |
 
 ### [Lombank](#tab/ceo-4)
